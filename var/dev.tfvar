@@ -1,0 +1,4 @@
+vpc_cidr = "172.16.0.0/16"
+private_cidr = "172.16.0.0/20"
+public_cidr = "172.16.1.0/20"
+environment = "dev"
